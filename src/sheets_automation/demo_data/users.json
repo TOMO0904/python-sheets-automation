@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Sample",
+    "company": {
+      "name": "Example Studio"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Bailey Demo",
+    "company": {
+      "name": "Sample Works"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Casey Test",
+    "company": {
+      "name": "Demo Labs"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Drew Idle",
+    "company": {
+      "name": "Placeholder Inc"
+    }
+  }
+]

@@ -1,0 +1,25 @@
+# secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa*
+*service-account*.json
+*serviceaccount*.json
+*credentials*.json
+*-key.json
+client_secret*.json
+# output
+summary.csv
+# python / editor
+__pycache__/
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.venv/
+.vscode/
+.idea/
+.DS_Store
