@@ -1,3 +1,5 @@
+**English** | [日本語](README.ja.md)
+
 # Python Sheets Automation
 
 A small Python 3.11+ command-line tool that fetches data from a public API, aggregates it, and writes the result to **Google Sheets** (via `gspread`) or to a **CSV file**.
